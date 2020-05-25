@@ -1,0 +1,19 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MathLibrary.cpp
+D:\Programming\VisualStudio\C#\dllll\TestLib\TestLib\MathLibrary.cpp(12,1): warning C4273: sum: несовместимое связывание dll
+D:\Programming\VisualStudio\C#\dllll\TestLib\TestLib\MathLibrary.h(11,22): message : см. предыдущее определение "sum"
+D:\Programming\VisualStudio\C#\dllll\TestLib\TestLib\MathLibrary.cpp(29,1): warning C4273: difference: несовместимое связывание dll
+D:\Programming\VisualStudio\C#\dllll\TestLib\TestLib\MathLibrary.h(12,22): message : см. предыдущее определение "difference"
+D:\Programming\VisualStudio\C#\dllll\TestLib\TestLib\MathLibrary.cpp(46,1): warning C4273: multiplication: несовместимое связывание dll
+D:\Programming\VisualStudio\C#\dllll\TestLib\TestLib\MathLibrary.h(13,22): message : см. предыдущее определение "multiplication"
+D:\Programming\VisualStudio\C#\dllll\TestLib\TestLib\MathLibrary.cpp(63,1): warning C4273: division: несовместимое связывание dll
+D:\Programming\VisualStudio\C#\dllll\TestLib\TestLib\MathLibrary.h(14,25): message : см. предыдущее определение "division"
+D:\Programming\VisualStudio\C#\dllll\TestLib\TestLib\MathLibrary.cpp(87,1): warning C4273: average: несовместимое связывание dll
+D:\Programming\VisualStudio\C#\dllll\TestLib\TestLib\MathLibrary.h(15,25): message : см. предыдущее определение "average"
+D:\Programming\VisualStudio\C#\dllll\TestLib\TestLib\MathLibrary.cpp(104,1): warning C4273: Hello: несовместимое связывание dll
+D:\Programming\VisualStudio\C#\dllll\TestLib\TestLib\MathLibrary.h(16,22): message : см. предыдущее определение "Hello"
+  Создание кода...
+D:\Programming\VisualStudio\C#\dllll\TestLib\TestLib\MathLibrary.cpp(83): warning C4715: division: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\Programming\VisualStudio\C#\dllll\TestLib\Debug\MathLibrary.lib и объект D:\Programming\VisualStudio\C#\dllll\TestLib\Debug\MathLibrary.exp
+  TestLib.vcxproj -> D:\Programming\VisualStudio\C#\dllll\TestLib\Debug\MathLibrary.dll

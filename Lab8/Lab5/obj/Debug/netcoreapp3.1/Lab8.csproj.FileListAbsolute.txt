@@ -1,0 +1,13 @@
+D:\Programming\VisualStudio\C#\Sokol\Lab8\Lab5\bin\Debug\netcoreapp3.1\Lab8.exe
+D:\Programming\VisualStudio\C#\Sokol\Lab8\Lab5\bin\Debug\netcoreapp3.1\Lab8.deps.json
+D:\Programming\VisualStudio\C#\Sokol\Lab8\Lab5\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.json
+D:\Programming\VisualStudio\C#\Sokol\Lab8\Lab5\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.dev.json
+D:\Programming\VisualStudio\C#\Sokol\Lab8\Lab5\bin\Debug\netcoreapp3.1\Lab8.dll
+D:\Programming\VisualStudio\C#\Sokol\Lab8\Lab5\bin\Debug\netcoreapp3.1\Lab8.pdb
+D:\Programming\VisualStudio\C#\Sokol\Lab8\Lab5\obj\Debug\netcoreapp3.1\Lab8.csprojAssemblyReference.cache
+D:\Programming\VisualStudio\C#\Sokol\Lab8\Lab5\obj\Debug\netcoreapp3.1\Lab8.csproj.CoreCompileInputs.cache
+D:\Programming\VisualStudio\C#\Sokol\Lab8\Lab5\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfoInputs.cache
+D:\Programming\VisualStudio\C#\Sokol\Lab8\Lab5\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfo.cs
+D:\Programming\VisualStudio\C#\Sokol\Lab8\Lab5\obj\Debug\netcoreapp3.1\Lab8.dll
+D:\Programming\VisualStudio\C#\Sokol\Lab8\Lab5\obj\Debug\netcoreapp3.1\Lab8.pdb
+D:\Programming\VisualStudio\C#\Sokol\Lab8\Lab5\obj\Debug\netcoreapp3.1\Lab8.genruntimeconfig.cache

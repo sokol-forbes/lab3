@@ -1,0 +1,13 @@
+D:\Programming\VisualStudio\C#\Новая папка\MathClient\MathClient\bin\x64\Debug\netcoreapp3.1\MathClient.exe
+D:\Programming\VisualStudio\C#\Новая папка\MathClient\MathClient\bin\x64\Debug\netcoreapp3.1\MathClient.deps.json
+D:\Programming\VisualStudio\C#\Новая папка\MathClient\MathClient\bin\x64\Debug\netcoreapp3.1\MathClient.runtimeconfig.json
+D:\Programming\VisualStudio\C#\Новая папка\MathClient\MathClient\bin\x64\Debug\netcoreapp3.1\MathClient.runtimeconfig.dev.json
+D:\Programming\VisualStudio\C#\Новая папка\MathClient\MathClient\bin\x64\Debug\netcoreapp3.1\MathClient.dll
+D:\Programming\VisualStudio\C#\Новая папка\MathClient\MathClient\bin\x64\Debug\netcoreapp3.1\MathClient.pdb
+D:\Programming\VisualStudio\C#\Новая папка\MathClient\MathClient\obj\x64\Debug\netcoreapp3.1\MathClient.csprojAssemblyReference.cache
+D:\Programming\VisualStudio\C#\Новая папка\MathClient\MathClient\obj\x64\Debug\netcoreapp3.1\MathClient.Properties.Resources.resources
+D:\Programming\VisualStudio\C#\Новая папка\MathClient\MathClient\obj\x64\Debug\netcoreapp3.1\MathClient.csproj.GenerateResource.cache
+D:\Programming\VisualStudio\C#\Новая папка\MathClient\MathClient\obj\x64\Debug\netcoreapp3.1\MathClient.AssemblyInfoInputs.cache
+D:\Programming\VisualStudio\C#\Новая папка\MathClient\MathClient\obj\x64\Debug\netcoreapp3.1\MathClient.AssemblyInfo.cs
+D:\Programming\VisualStudio\C#\Новая папка\MathClient\MathClient\obj\x64\Debug\netcoreapp3.1\MathClient.dll
+D:\Programming\VisualStudio\C#\Новая папка\MathClient\MathClient\obj\x64\Debug\netcoreapp3.1\MathClient.pdb
